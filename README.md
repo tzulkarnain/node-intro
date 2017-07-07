@@ -7,6 +7,7 @@
   * All the code goes in the `workshop.js` file.
 
 ## Calling APIs
+In order to do these exercises, you will need to know about the [JSON format](https://www.digitalocean.com/community/tutorials/how-to-work-with-json-in-javascript).
 
 ### `getIssPosition`
   1. First, install the `request-promise` module with NPM, making sure it's added to `package.json`.
