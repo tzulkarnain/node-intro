@@ -3,7 +3,6 @@
 ## Base instructions
   * Fork this repository and clone it to your Cloud9 workspace
   * Notice that the `.gitignore` file contains one line that says "`node_modules`". What this is doing is telling Git that it should ignore the contents of the `node_modules` directory even when we do `git add .`. Since the code in `node_modules` can be downloaded from the NPM registry, and `package.json` has a reference to every package the project needs, we don't need to commit `node_modules` in our repository.
-  * After your first commit, push and create a pull-request. Then make sure to commit and push often so we can see your work.
   * All the code goes in the `workshop.js` file.
 
 ## Calling APIs
