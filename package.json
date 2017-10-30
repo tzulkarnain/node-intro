@@ -1,0 +1,26 @@
+{
+  "name": "workshop-node",
+  "version": "1.0.0",
+  "description": "workshop week 4 node",
+  "main": "workshop.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decodejacques/node-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decodejacques/node-intro/issues"
+  },
+  "homepage": "https://github.com/decodejacques/node-intro#readme"
+}
